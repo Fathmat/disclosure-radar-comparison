@@ -1,0 +1,13 @@
+project_id = "jqewzqqaemkyqefxmfyw"
+
+[functions.fetch-filing]
+verify_jwt = false
+
+[functions.parse-sections]
+verify_jwt = false
+
+[functions.extract-changes]
+verify_jwt = false
+
+[functions.events-api]
+verify_jwt = false
